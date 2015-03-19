@@ -1,3 +1,3 @@
 <?php phpinfo(); 
-echo "I want this to work!";
+echo "I want this to work! 5";
 ?>
